@@ -1,10 +1,10 @@
 # Data Visualization with Python
 
-Repository for an introductory seminar on data visualization with ``matplotlib`` and ``seaborn``.
+Repository for the introductory seminar on data visualization with ``matplotlib`` and ``seaborn`` at IMT Lucca.
 
 ## Resources
 
-* [Presentation](add url)
+* [Presentation](https://tsakim.github.io/dataviz_python/#/)
 * [Introduction to Matplotlib](https://github.com/tsakim/dataviz_python/blob/master/Introduction_to_Matplotlib.ipynb)
 * [Introduction to Seaborn](https://github.com/tsakim/dataviz_python/blob/master/Introduction_to_Seaborn.ipynb)
 
