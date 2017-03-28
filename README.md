@@ -11,7 +11,7 @@ Repository for an introductory seminar on data visualization with ``matplotlib``
 ### Data Analysis
 * [pandas](http://pandas.pydata.org/)
 * [Reproducible Data Analysis in Jupyter](https://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
-* [Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook):w
+* [Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ### Data Visualization
 
