@@ -2,16 +2,21 @@
 
 Repository for the introductory seminar on data visualization with ``matplotlib`` and ``seaborn`` at IMT Lucca.
 
-## Resources
+The presentation can be found online:
 
 * [Presentation](https://tsakim.github.io/dataviz_python/#/)
+
+Download the Jupyter notebooks for the seminar and try them out:
+
 * [Introduction to Matplotlib](https://github.com/tsakim/dataviz_python/blob/master/Introduction_to_Matplotlib.ipynb)
 * [Introduction to Seaborn](https://github.com/tsakim/dataviz_python/blob/master/Introduction_to_Seaborn.ipynb)
+
+## Resources
 
 ### Data Analysis
 * [pandas](http://pandas.pydata.org/)
 * [Reproducible Data Analysis in Jupyter](https://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
-* [Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook):w
+* [Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ### Data Visualization
 
