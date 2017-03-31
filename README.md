@@ -1,6 +1,6 @@
 # Data Visualization with Python
 
-Repository for the introductory seminar on data visualization with ``matplotlib`` and ``seaborn`` at IMT Lucca.
+Repository for the introductory seminar "Data Visualization with Python" at IMT Lucca, March 29 2017.
 
 The presentation can be found here:
 
@@ -24,7 +24,7 @@ Download the Jupyter notebooks for the seminar to try them out:
 
 ### Data Analysis
 
-* [pandas](http://pandas.pydata.org/)
+* [pandas](http://pandas.pydata.org/) -- [Pandas cheat sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 * [Reproducible Data Analysis in Jupyter](https://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/)
 * [Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
